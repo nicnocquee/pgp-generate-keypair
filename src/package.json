@@ -4,7 +4,8 @@
   "description": "Boilerplate template for creating joules.",
   "main": "index.js",
   "dependencies": {
-    "joule-node-response": "<2.0.0"
+    "joule-node-response": "<2.0.0",
+    "openpgp": "^2.2.0"
   },
   "devDependencies": {
     "joule-node-local": "<2.0.0"
