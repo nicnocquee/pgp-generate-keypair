@@ -1,7 +1,7 @@
 version: 0.0.1
 language: 'nodejs'
 environment_variables:
-  - MyVariable # accessible as process.env.MyVariable - value input through the site
+  - PASSPHRASE # accessible as process.env.MyVariable - value input through the site
 methods:
   GET:
     status_codes:
